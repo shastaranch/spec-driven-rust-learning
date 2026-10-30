@@ -4,6 +4,17 @@ Learn Rust and spec-driven development together through small command-line progr
 Start with behavior, describe examples, plan a small change, write a failing test,
 implement it, and compare the result with the spec.
 
+## Documentation
+
+Explanations of repository files live in the [GitHub wiki](https://github.com/shastaranch/spec-driven-rust-learning/wiki).
+Use the [one-to-one file map](https://github.com/shastaranch/spec-driven-rust-learning/wiki/Repository-file-map)
+to find the page matching a source file, or start with the
+[greeting specification walkthrough](https://github.com/shastaranch/spec-driven-rust-learning/wiki/File--specs--001-greeting-cli--specdotmd).
+When adding or changing a tracked file, update its matching wiki explanation and
+file-map entry in the same work session. Specs, plans, tasks, and runnable instructions
+remain in this repo; their explanatory guides live in the wiki. The wiki is a separate
+Git repository and requires its own commit and push.
+
 ## Start here
 
 1. Read the [learning roadmap](docs/learning-roadmap.md).
