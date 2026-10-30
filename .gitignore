@@ -426,3 +426,9 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Rust build output (keep Cargo.lock for lesson binaries)
+**/target/
+
+# Local Codex state; generated .agents/skills are shared
+.codex/
