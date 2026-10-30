@@ -15,6 +15,14 @@ file-map entry in the same work session. Specs, plans, tasks, and runnable instr
 remain in this repo; their explanatory guides live in the wiki. The wiki is a separate
 Git repository and requires its own commit and push.
 
+## Cartoon introduction
+
+The planned introduction, **Hello, Machine: How Ideas Became Computers**, follows
+computing ideas from representation and algorithms to Rust and specifications.
+Read the [screenplay, characters, and scene directions](docs/media/computer-history-intro-screenplay.md)
+and the [copy-ready AI production prompts](docs/media/computer-history-intro-ai-prompt.md).
+These are production documents only; no images or video have been generated.
+
 ## Start here
 
 1. Read the [learning roadmap](docs/learning-roadmap.md).
